@@ -1,0 +1,10 @@
+.btn {
+  background-color: lightgray;
+  border-radius: 0%;
+  border-color: black;
+  margin: 6px;
+}
+.btn:hover,
+.btn:focus {
+  border-color: black;
+}
